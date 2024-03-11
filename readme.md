@@ -52,7 +52,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/cyanotic/cyanotic/output/snake.svg" alt="Snake animation" />
-
-###
