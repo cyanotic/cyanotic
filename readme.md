@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">Contact Me</h2>
+<h2 align="left">Contact</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ilham295/" target="_blank">
